@@ -12,7 +12,7 @@ A retrying `http.RoundTripper` for Go that:
 Go 1.21+ · the core module has **zero third-party dependencies** · works with any
 code that accepts an `*http.Client`.
 
-> The module path `example.com/retryx` is a placeholder. Change it in `go.mod`
+> The module path `github.com/abdussalamfaqih/retryx` is a placeholder. Change it in `go.mod`
 > (and in the imports of `examples/` and `obs/`) to your repository path.
 
 ## Contents
@@ -66,7 +66,7 @@ when?* Real systems need more:
 ## Quick start
 
 ```bash
-go get example.com/retryx
+go get github.com/abdussalamfaqih/retryx
 ```
 
 ```go

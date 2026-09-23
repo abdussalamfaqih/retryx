@@ -37,9 +37,9 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 
-	"example.com/retryx/obs/promobs"
-	"example.com/retryx/obs/slogobs"
 	"github.com/abdussalamfaqih/retryx"
+	"github.com/abdussalamfaqih/retryx/obs/promobs"
+	"github.com/abdussalamfaqih/retryx/obs/slogobs"
 )
 
 func main() {
